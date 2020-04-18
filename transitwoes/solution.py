@@ -1,3 +1,4 @@
+# https://open.kattis.com/problems/transitwoes
 STN = map(int, raw_input().split())
 Di = map(int, raw_input().split())
 z = Di[0]
