@@ -1,3 +1,4 @@
+// https://open.kattis.com/problems/judgingmoose
 #include <iostream>
 #include <cmath>
 using namespace std;
