@@ -5,7 +5,6 @@ while True:
   d = {}
   for x in xrange(n):
     s = raw_input()
-    c_i = 0
     r = 0
     for e in "aeiouy": r += s.count(e*2)
     d[r] = s
